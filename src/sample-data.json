@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "_id": "1",
+      "title": "first task",
+      "description": "this is the desc for first task",
+      "completed": false,
+      "important": false,
+      "deadline": "2024-10-20T00:00:00Z"
+    },
+    {
+      "_id": "2",
+      "title": "second task",
+      "description": "this is the desc for second task",
+      "completed": false,
+      "important": true,
+      "deadline": "2024-11-15T00:00:00Z"
+    },
+    {
+      "_id": "3",
+      "title": "third task",
+      "description": "this is the desc for third task",
+      "completed": true,
+      "important": false,
+      "deadline": "2024-12-01T00:00:00Z"
+    }
+  ]
+}
